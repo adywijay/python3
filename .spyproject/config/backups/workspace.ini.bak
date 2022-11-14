@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['tes\\program_3.py', 'untitled2.py', 'untitled3.py', 'Tuple\\frozenset.py', 'Tuple\\type set.py', 'Dictonary\\dictonary.py', 'Tuple\\list.py', 'Str.Keputusan\\flow_control_ifelse.py', 'String\\formating string.py', 'String\\fungsi_builtin_string.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
